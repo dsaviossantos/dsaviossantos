@@ -4,8 +4,8 @@ I'm currently working as <b>Data Analyst</b> in Esports for :green_heart:<b>LOUD
 </br>Graduated in Physical Education and Sports <i>(Yeah! I know! Crazy huh?!)</i>, but changing gradually my career to <b>Full Stack Dev.</b>
 <br/>I'm passionate about solving puzzles and helping others with useful tools made me love software engineering.
 
-- 🔭 I’m currently working: :bar_chart: MaximilliusGG Analisys App
-- 🌱 I’m currently learning: ReactJS and Elixir
+- 🔭 I’m currently working: :bar_chart: MaximilliusGG Analisys & @42
+- 🌱 I’m currently learning: BigData and Data Analysis
 - 👯 I’m looking to collaborate on: Anything that can teach me!
 
 :email: &nbsp; Get in touch: [![Linkedin Badge](https://img.shields.io/badge/-SávioSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsaviossantos)](https://www.linkedin.com/in/dsaviossantos/) 
