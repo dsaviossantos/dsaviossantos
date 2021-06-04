@@ -1,6 +1,6 @@
 ### Hi there! 👋
 # My name is <b>Sávio Santos</b>
-I'm currently working as <b>Data Analyst</b> in Esports for :green_heart:<b>LOUD INC.</b>:green_heart:
+I'm not currently working.
 </br>Graduated in Physical Education and Sports <i>(Yeah! I know! Crazy huh?!)</i>, but changing gradually my career to <b>BigData and Data Analysis</b>
 <br/>I'm passionate about solving puzzles and helping others with useful tools made me love software engineering.
 
