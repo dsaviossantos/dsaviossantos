@@ -1,6 +1,6 @@
 ### Hi there! 👋
 # My name is <b>Sávio Santos</b>
-I'm currently working on Holistix as Data Specialist - BI.
+I'm currently working on Grupo Permaneo as Head of Data & Analytics.
 </br>Graduated in Physical Education and Sports <i>(Yeah! I know! Crazy huh?!)</i>, but changing gradually my career to <b>BigData and Data Analysis</b>
 <br/>I'm passionate about solving puzzles and helping others with useful tools made me love software engineering.
 
